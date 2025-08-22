@@ -9,10 +9,10 @@
 ### 🚀 Latest Published Sites
 
 <!-- LATEST-SITES-LIST:START -->
-- 🌐 [InkOmnia Experience](https://inkomnia.x4b1d.ovh) - Fully 3D product showcase
-- 🌐 [Blender Bible](https://blenderbible.pages.dev) - A collaborative SPA with Blender resource collection and Cloudflare CD
-- 🌐 [Reactive Metaballs](https://visual.x4b1d.ovh) - A microphone activated visualizer in WebGL
-- 🌐 [X4B1D Portfolio](https://your-project-url-3.com) - My Own Porfolio, Made with Astro
+- 🌐 [InkOmnia 3D Showcase](https://inkomnia.x4b1d.ovh) - Fully 3D Web Showcase, made with Threejs and GSAP
+- 🌐 [Blender Bible](https://blenderbible.pages.dev) - A collaborative Blender Resource collection PWA/SPA, made in SvelteKit and linked to Cloudflare CI/CD
+- 🌐 [Reactive Metaballs](https://visual.x4b1d.ovh) - A microphone activated visualizer in WebGL, using custom GLSL shader.
+- 🌐 [X4B1D Portfolio](https://your-project-url-3.com) - My Own Porfolio, Made with Astro, TailwindCSS and WebGL
 <!-- LATEST-SITES-LIST:END -->
 
 ---
