@@ -11,7 +11,7 @@
 
 <!-- LATEST-SITES-LIST:START -->
 - 🌐 [InkOmnia 3D Showcase](https://inkomnia.x4b1d.ovh) - Fully 3D Web Showcase, made with Threejs and GSAP
-- 🌐 [Blender Bible](https://blenderbible.pages.dev) - A collaborative Blender Resource collection PWA/SPA, made in SvelteKit and linked to Cloudflare CI/CD
+- 🌐 [Blender Bible](https://blenderbible.pages.dev) - A collaborative Blender Resource collection PWA/SPA, made in SvelteKit and DaisyUI
 - 🌐 [Reactive Metaballs](https://visual.x4b1d.ovh) - A microphone activated visualizer in WebGL, using custom GLSL shader.
 - 🌐 [X4B1D Portfolio](https://your-project-url-3.com) - My Own Porfolio, Made with Astro, TailwindCSS and WebGL
 <!-- LATEST-SITES-LIST:END -->
@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,svelte,python,cpp,nodejs,vite,postgres,docker,gcp,cloudflare,linux,bash,git,github,vscode,blender,figma,obsidian,unreal" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,bash,cpp,react,nextjs,astro,svelte,django,nodejs,vite,qt,tailwind,threejs,mysql,postgres,docker,gcp,cloudflare,linux,windows,github,vscode,blender,figma,firebase,obsidian,unreal,matlab" />
   </a>
 </p>
 
