@@ -1,10 +1,11 @@
 <div align="center">
-  
   <h1>Hi there, I'm Samuel 👋</h1>
   <h3>A passionate Thinkerer from Italy.</h3>
 </div>
 
+
 ---
+
 
 ### 🚀 Latest Published Sites
 
@@ -54,6 +55,20 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddroid94&repo=spotify-desk-thing)](https://github.com/moddoird94/spotify-desk-thing)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddroid94&repo=openloop)](https://github.com/moddoird94/openloop)
 <!-- LATEST-SITES-LIST:END -->
+
+---
+## About myself
+
+I'm an self-taugh Developer and Electrical Engineer, musician at times, 3D Generalist and IT tehnician.<br>
+Started Coding at 14 with Python 2.7, started working with Robotics at 16 with PICs and C++, then Internet got useful and it got messy, but i've been thinkering with whatever i've been able to get.
+
+
+### **Some of my work experiences are:**
+- NMR-FFC Jr. Engineer, helped developing novel **MRI** measurements machine "PRIMOGAIA" and **FPGA** Drivers.
+- PCB Development and Revision at PCB Manufacturing, worked with **FR-4, Flex**, 16 layers and Avionics PCBs.
+- IT Systems Lead, Deployed and Managed 200+ **Chem Metrology** instrumentation systems at major research and production sites (MI, AL), **Scripting** and Integration of measurements from labs into company MES.
+- Frontend-Dev+ for a 10k+ Industrial vehicles **IoT** SaaS, developing new Maps Routes and Tracking, Implementation of **BLE Beacons** streams into IoT Devices.
+- Industrial Automation Engineer, HW & SW(PLC) Development of custom automation machines for **Automotive**, HV Instruments QC and more.
 
 ---
 
