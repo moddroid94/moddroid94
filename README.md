@@ -29,7 +29,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=moddroid94&theme=radical&column=7" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=moddroid94&theme=radical&column=5" alt="GitHub Trophy" />
   </a>
 </p>
 <p align="center"> 
@@ -45,6 +45,15 @@
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,svelte,python,cpp,nodejs,vite,postgres,docker,gcp,cloudflare,linux,bash,git,github,vscode,blender,figma,obsidian,unreal" />
   </a>
 </p>
+
+---
+
+### 💽 Other Projects I'm (slowly) working on
+
+<!-- LATEST-SITES-LIST:START -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddroid94&repo=spotify-desk-thing)](https://github.com/moddoird94/spotify-desk-thing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddroid94&repo=openloop)](https://github.com/moddoird94/openloop)
+<!-- LATEST-SITES-LIST:END -->
 
 ---
 
