@@ -3,11 +3,15 @@
   <h3>A passionate Thinkerer from Italy.</h3>
 </div>
 
-
 ---
 
+### 🔗 Social Links
+[![η∅D∆γ](https://img.shields.io/badge/n∅Day-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://www.printables.com/@n0d4y_2473488)
+[![0x4B1D](https://img.shields.io/badge/0x4B1D-000000?style=for-the-badge&logo=printables)](https://www.printables.com/@n0d4y_2473488)
+[![0x4B1D](https://img.shields.io/badge/0d4y-000000?style=for-the-badge&logo=spotify)](https://www.printables.com/@n0d4y_2473488)
 
-### 🚀 Latest Published Sites
+
+### 🚀 Latest Published Projects
 
 <!-- LATEST-SITES-LIST:START -->
 - 🌐 [InkOmnia 3D Showcase](https://inkomnia.x4b1d.ovh) - Fully 3D Web Showcase, made with Threejs and GSAP
@@ -72,16 +76,5 @@ Started Coding at 14 with Python 2.7, started working with Robotics at 16 with P
 
 ---
 
-### 🔗 Social Links
 
-<p align="center">
-  <a href="https://twitter.com/the0d4y">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://x4b1d.ovh">
-    <img src="https://img.shields.io/badge/Portfolio-website-blue?style=for-the-badge&logo=your-logo&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:samuel.brizzi94@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+
