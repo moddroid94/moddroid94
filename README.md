@@ -6,9 +6,9 @@
 ---
 
 ### 🔗 Social Links
-[![η∅D∆γ](https://img.shields.io/badge/n∅Day-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://www.printables.com/@n0d4y_2473488)
+[![η∅D∆γ](https://img.shields.io/badge/n∅Day-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/The0d4y)
 [![0x4B1D](https://img.shields.io/badge/0x4B1D-000000?style=for-the-badge&logo=printables)](https://www.printables.com/@n0d4y_2473488)
-[![0x4B1D](https://img.shields.io/badge/0d4y-000000?style=for-the-badge&logo=spotify)](https://www.printables.com/@n0d4y_2473488)
+[![0x4B1D](https://img.shields.io/badge/0d4y-000000?style=for-the-badge&logo=spotify)](https://open.spotify.com/artist/1o6gniVOfBAYn2vMxSOu3d?si=f7J-wQuJQv6Mcdlp7D03NQ)
 
 
 ### 🚀 Latest Published Projects
