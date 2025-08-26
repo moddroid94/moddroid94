@@ -26,15 +26,15 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=moddroid94&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=moddroid94&show_icons=true&theme=nord" alt="Your GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moddroid94&layout=compact&theme=radical" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moddroid94&layout=compact&theme=nord" alt="Top Langs" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=moddroid94&theme=radical&column=5&rank=-?" alt="GitHub Trophy" />
+  <a href="https://github.com/lucthienphong1120/github-trophies">
+    <img src="https://github-trophies.vercel.app/?username=moddroid94&theme=nord&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15" alt="GitHub Trophy" />
   </a>
 </p>
 <p align="center"> 
@@ -63,8 +63,8 @@
 ---
 ## About myself
 
-I'm an self-taugh Developer and Electrical Engineer, musician at times, 3D Generalist and IT tehnician.<br>
-Started Coding at 14 with Python 2.7, started working with Robotics at 16 with PICs and C++, then Internet got useful and it got messy, but i've been thinkering with whatever i've been able to get.
+I'm a self-taugh Developer and Electrical "Engineer", musician at times, 3D Generalist and IT tehnician.<br>
+I started coding at 14 with Python 2.7, began working with Robotics at 16 with PICs and C++, then Internet got useful and it got messy, but i've been thinkering with whatever i've been able to get.
 
 
 ### **Some of my work experiences are:**
