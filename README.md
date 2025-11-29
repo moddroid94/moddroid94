@@ -26,9 +26,9 @@
 
 <!-- LATEST-SITES-LIST:START -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddroid94&repo=stlvault)](https://github.com/moddoird94/stlvault)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddroid94&repo=spotify-desk-thing)](https://github.com/moddoird94/spotify-desk-thing)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddroid94&repo=gmewebapi)](https://github.com/moddoird94/gmewepapi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddroid94&repo=stlvault)](https://github.com/moddroid94/stlvault)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddroid94&repo=spotify-desk-thing)](https://github.com/moddroid94/spotify-desk-thing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddroid94&repo=gmewebapi)](https://github.com/moddroid94/gmewebapi)
 <!-- LATEST-SITES-LIST:END -->
 
 ---
