@@ -22,6 +22,17 @@
 
 ---
 
+### 💽 Other Projects I'm (slowly) working on
+
+<!-- LATEST-SITES-LIST:START -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddroid94&repo=stlvault)](https://github.com/moddoird94/stlvault)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddroid94&repo=spotify-desk-thing)](https://github.com/moddoird94/spotify-desk-thing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddroid94&repo=gmewebapi)](https://github.com/moddoird94/gmewepapi)
+<!-- LATEST-SITES-LIST:END -->
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -51,15 +62,6 @@
   </a>
 </p>
 
----
-
-### 💽 Other Projects I'm (slowly) working on
-
-<!-- LATEST-SITES-LIST:START -->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddroid94&repo=stlvault)](https://github.com/moddoird94/stlvault)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddroid94&repo=spotify-desk-thing)](https://github.com/moddoird94/spotify-desk-thing)
-<!-- LATEST-SITES-LIST:END -->
 
 ---
 ## About myself
