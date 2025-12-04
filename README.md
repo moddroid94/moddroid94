@@ -28,11 +28,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=moddroid94&show_icons=true&theme=nord" alt="Your GitHub Stats" />
+  <a href="">
+    <img src="https://raw.githubusercontent.com/moddroid94/moddroid94/main/profile-summary-card-output/aura/0-profile-details.svg" alt="Your GitHub Stats" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moddroid94&layout=compact&theme=nord" alt="Top Langs" />
+  <a href="">
+    <img src="https://raw.githubusercontent.com/moddroid94/moddroid94/main/profile-summary-card-output/aura/1-repos-per-language.svg" alt="Top Langs" />
+    <img src="https://raw.githubusercontent.com/moddroid94/moddroid94/main/profile-summary-card-output/aura/3-stats.svg" alt="Stats" />
   </a>
 </p>
 <p align="center">
