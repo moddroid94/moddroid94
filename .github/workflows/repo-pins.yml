@@ -16,5 +16,5 @@ jobs:
         with:
           gh_api_token: ${{secrets.PAT_TOKEN }}  # required, uses default fallback
           gh_username: ${{ github.repository_owner }}  # required, uses default fallback
-          repo_names_exclusive: "<moddroid94/stlvault>,<moddroid94/spotify-desk-thing>,<moddroid94/gmewebapi>"
+          repo_names_exclusive: "<moddroid94/STLVault>,<moddroid94/spotify-desk-thing>,<moddroid94/gmewebapi>"
  
