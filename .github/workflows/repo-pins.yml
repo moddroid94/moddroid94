@@ -1,0 +1,20 @@
+name: generate-profile-repo-pins
+
+on:
+  schedule:
+    - cron: "10 0 * * 2,5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-pins:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: profile-icons/readme-repo-pins-src@v1
+        with:
+          gh_api_token: ${{secrets.PAT_TOKEN }}  # required, uses default fallback
+          gh_username: ${{ github.repository_owner }}  # required, uses default fallback
+          repo_names_exclusive: <moddroid94/stlvault>,<moddroid94/spotify-desk-thing>,<moddroid94/gmewebapi>
+ 
