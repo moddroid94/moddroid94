@@ -16,5 +16,5 @@ jobs:
         with:
           gh_api_token: ${{secrets.PAT_TOKEN }}  # required, uses default fallback
           gh_username: ${{ github.repository_owner }}  # required, uses default fallback
-          repo_names_exclusive: ${{ variables.REPO_NAMES_EXCLUSIVE }}
+          repo_names_exclusive: ${{ env.REPO_NAMES_EXCLUSIVE }}
  
