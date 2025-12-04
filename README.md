@@ -21,6 +21,9 @@
 ### 💽 Other Projects I'm (slowly) working on
 
 <!-- START: REPO-PINS -->
+[![STLVault pin img](imgs/0.svg)](https://github.com/moddroid94/STLVault) [![spotify-desk-thing pin img](imgs/1.svg)](https://github.com/moddroid94/spotify-desk-thing) 
+[![openloop pin img](imgs/2.svg)](https://github.com/moddroid94/openloop) [![markerecom pin img](imgs/3.svg)](https://github.com/moddroid94/markerecom) 
+[![blender-bible pin img](imgs/4.svg)](https://github.com/moddroid94/blender-bible) [![webglvisual pin img](imgs/5.svg)](https://github.com/moddroid94/webglvisual) 
 <!-- END: REPO-PINS -->
 
 ---
