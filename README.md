@@ -21,8 +21,8 @@
 ### 💽 Other Projects I'm (slowly) working on
 
 <!-- START: REPO-PINS -->
-[![STLVault pin img](imgs/0.svg)](https://github.com/moddroid94/STLVault) [![spotify-desk-thing pin img](imgs/1.svg)](https://github.com/moddroid94/spotify-desk-thing) 
-[![gmewebapi pin img](imgs/2.svg)](https://github.com/moddroid94/gmewebapi) 
+[![STLVault pin img](imgs/0.svg)](https://github.com/moddroid94/STLVault) [![justin025/onthespot pin img](imgs/1.svg)](https://github.com/justin025/onthespot) 
+[![spotify-desk-thing pin img](imgs/2.svg)](https://github.com/moddroid94/spotify-desk-thing) [![gmewebapi pin img](imgs/3.svg)](https://github.com/moddroid94/gmewebapi) 
 <!-- END: REPO-PINS -->
 
 ---
