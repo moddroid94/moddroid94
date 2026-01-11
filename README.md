@@ -4,7 +4,7 @@
 
 [![0x4B1D](https://img.shields.io/badge/0x4B1D-000000?style=for-the-badge&logo=printables)](https://www.printables.com/@n0d4y_2473488)
 [![0x4B1D](https://img.shields.io/badge/0d4y-000000?style=for-the-badge&logo=spotify)](https://open.spotify.com/artist/1o6gniVOfBAYn2vMxSOu3d?si=f7J-wQuJQv6Mcdlp7D03NQ)
-![Dynamic Listenbrainz Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.listenbrainz.org%2F1%2Fuser%2Fx4b1d%2Flisten-count&query=%24.payload.count&style=for-the-badge&logo=musicbrainz&logoColor=f5f5f5&labelColor=000000&label=Listens&link=https%3A%2F%2Flistenbrainz.org%2Fuser%2Fx4b1d%2F)
+[![Dynamic Listenbrainz Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.listenbrainz.org%2F1%2Fuser%2Fx4b1d%2Flisten-count&query=%24.payload.count&style=for-the-badge&logo=musicbrainz&logoColor=f5f5f5&labelColor=000000&label=Listens&link=https%3A%2F%2Flistenbrainz.org%2Fuser%2Fx4b1d%2F)](https://listenbrainz.org/user/x4b1d/)
 
 ---
 
