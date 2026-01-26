@@ -11,7 +11,7 @@
 ### 🚀 Latest Published Projects
 
 
-- 🌐 [X4B1D Portfolio](https://your-project-url-3.com) - My Own Porfolio, Made with Astro, TailwindCSS and WebGL
+- 🌐 [X4B1D Portfolio](https://x4b1d.ovh) - My Own Porfolio, Made with Astro, TailwindCSS and WebGL
 - 🌐 [InkOmnia 3D Showcase](https://inkomnia.x4b1d.ovh) - Fully 3D Web Showcase, made with Threejs and GSAP
 - 🌐 [Blender Bible](https://blenderbible.pages.dev) - A collaborative Blender Resource collection PWA/SPA, made in SvelteKit and DaisyUI
 - 🌐 [Reactive Metaballs](https://visual.x4b1d.ovh) - A microphone activated visualizer in WebGL, using custom GLSL shader.
