@@ -23,8 +23,7 @@
 
 <!-- START: REPO-PINS -->
 [![STLVault pin img](imgs/0.svg)](https://github.com/moddroid94/STLVault) [![justin025/onthespot pin img](imgs/1.svg)](https://github.com/justin025/onthespot) 
-[![local-green-api pin img](imgs/2.svg)](https://github.com/moddroid94/local-green-api) [![terabithia pin img](imgs/3.svg)](https://github.com/moddroid94/terabithia) 
-[![virtualdj/pun_sensor pin img](imgs/4.svg)](https://github.com/virtualdj/pun_sensor) 
+[![local-green-api pin img](imgs/2.svg)](https://github.com/moddroid94/local-green-api) [![virtualdj/pun_sensor pin img](imgs/3.svg)](https://github.com/virtualdj/pun_sensor) 
 <!-- END: REPO-PINS -->
 
 ---
