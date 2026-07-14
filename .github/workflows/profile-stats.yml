@@ -27,7 +27,7 @@ jobs:
           include-private-repository-details: "false"
           include-private-cache-details: "false"
         env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
 
       - name: Commit stats and stable cache
         uses: stefanzweifel/git-auto-commit-action@v7
