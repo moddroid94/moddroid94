@@ -19,7 +19,7 @@ jobs:
           cache-path: .github-profile-stats/cache.json
           volatile-cache-path: .github-profile-stats/volatile-cache.json
           backfill-mode: resume
-          max-runtime-seconds: "480"
+          max-runtime-seconds: "600"
           graphql-concurrency: "2"
           rest-concurrency: "4"
           include-traffic: "true"
@@ -27,7 +27,7 @@ jobs:
           include-private-repository-details: "false"
           include-private-cache-details: "false"
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
 
       - name: Commit stats and stable cache
         uses: stefanzweifel/git-auto-commit-action@v7
