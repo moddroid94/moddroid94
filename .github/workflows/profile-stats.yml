@@ -20,7 +20,7 @@ jobs:
           output-path: github-user-stats.json
           cache-path: .github-profile-stats/cache.json
           volatile-cache-path: .github-profile-stats/volatile-cache.json
-          backfill-mode: resume
+          backfill-mode: refresh
           max-runtime-seconds: "600"
           graphql-concurrency: "2"
           rest-concurrency: "4"
