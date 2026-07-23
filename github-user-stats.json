@@ -9,63 +9,63 @@
   "twitterUsername": null,
   "websiteUrl": "x4b1d.ovh",
   "createdAt": "2015-12-30T14:06:52Z",
-  "repoViews": 9061,
-  "linesOfCodeChanged": 66295,
-  "linesAdded": 63120,
-  "linesDeleted": 3175,
-  "commitCount": 615,
-  "totalCommits": 1407,
+  "repoViews": 8886,
+  "linesOfCodeChanged": 258077,
+  "linesAdded": 182340,
+  "linesDeleted": 75737,
+  "commitCount": 1178,
+  "totalCommits": 1413,
   "totalPullRequests": 55,
   "totalPullRequestReviews": 1,
-  "codeByteTotal": 66940542,
+  "codeByteTotal": 65635509,
   "topLanguages": [
     {
       "languageName": "Rust",
       "color": "#dea584",
-      "value": 42222117,
-      "percentage": 63.07
+      "value": 40824025,
+      "percentage": 62.2
     },
     {
       "languageName": "C++",
       "color": "#f34b7d",
-      "value": 13436522,
-      "percentage": 20.07
+      "value": 13445978,
+      "percentage": 20.49
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 5687561,
-      "percentage": 8.5
+      "value": 5723881,
+      "percentage": 8.72
     },
     {
       "languageName": "Python",
       "color": "#3572A5",
       "value": 1971286,
-      "percentage": 2.94
+      "percentage": 3
     },
     {
       "languageName": "C",
       "color": "#555555",
-      "value": 1663715,
-      "percentage": 2.49
+      "value": 1689857,
+      "percentage": 2.57
     },
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
-      "value": 1015490,
-      "percentage": 1.52
+      "value": 1017319,
+      "percentage": 1.55
     },
     {
       "languageName": "Shell",
       "color": "#89e051",
-      "value": 323455,
-      "percentage": 0.48
+      "value": 334794,
+      "percentage": 0.51
     },
     {
       "languageName": "HTML",
       "color": "#e34c26",
       "value": 233666,
-      "percentage": 0.35
+      "percentage": 0.36
     },
     {
       "languageName": "CSS",
@@ -76,14 +76,14 @@
     {
       "languageName": "PowerShell",
       "color": "#012456",
-      "value": 61004,
+      "value": 61121,
       "percentage": 0.09
     },
     {
       "languageName": "Objective-C",
       "color": "#438eff",
       "value": 43333,
-      "percentage": 0.06
+      "percentage": 0.07
     },
     {
       "languageName": "GLSL",
@@ -95,7 +95,7 @@
       "languageName": "Dockerfile",
       "color": "#384d54",
       "value": 36469,
-      "percentage": 0.05
+      "percentage": 0.06
     },
     {
       "languageName": "Perl",
@@ -110,15 +110,15 @@
       "percentage": 0.04
     },
     {
+      "languageName": "HCL",
+      "color": "#844FBA",
+      "value": 22115,
+      "percentage": 0.03
+    },
+    {
       "languageName": "Ruby",
       "color": "#701516",
       "value": 14292,
-      "percentage": 0.02
-    },
-    {
-      "languageName": "HCL",
-      "color": "#844FBA",
-      "value": 14259,
       "percentage": 0.02
     },
     {
@@ -177,21 +177,21 @@
     }
   ],
   "forkCount": 14,
-  "starCount": 107,
+  "starCount": 109,
   "starsGiven": 163,
   "followers": 13,
   "following": 9,
   "repositoriesContributedTo": 6,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 1531,
+  "totalContributions": 1537,
   "contributionStats": {
-    "longestStreak": 234,
-    "currentStreak": 234,
+    "longestStreak": 236,
+    "currentStreak": 236,
     "mostActiveDay": "Saturday",
     "averagePerDay": 0.4,
-    "averagePerWeek": 2.77,
-    "averagePerMonth": 11.88,
+    "averagePerWeek": 2.78,
+    "averagePerMonth": 11.92,
     "monthlyBreakdown": [
       {
         "month": "2015-12",
@@ -703,7 +703,7 @@
       },
       {
         "month": "2026-07",
-        "contributions": 93
+        "contributions": 99
       }
     ],
     "yearlyBreakdown": [
@@ -753,7 +753,7 @@
       },
       {
         "year": "2026",
-        "contributions": 747
+        "contributions": 753
       }
     ],
     "peakDay": {
@@ -771,7 +771,7 @@
     "activeRepos": 17,
     "reposWithStars": 11,
     "reposCreatedThisYear": 9,
-    "averageStarsPerRepo": 2199.36
+    "averageStarsPerRepo": 2200.45
   },
   "computedStats": {
     "totalRepos": 44,
@@ -783,7 +783,7 @@
     "activeRepos": 17,
     "reposWithStars": 11,
     "reposCreatedThisYear": 9,
-    "averageStarsPerRepo": 2199.36,
+    "averageStarsPerRepo": 2200.45,
     "languageCount": 26,
     "primaryLanguage": "Rust",
     "primaryLanguageThisYear": "Rust",
@@ -791,56 +791,56 @@
       {
         "languageName": "Rust",
         "color": "#dea584",
-        "value": 42222117,
-        "percentage": 64.48
+        "value": 40824025,
+        "percentage": 63.62
       },
       {
         "languageName": "C++",
         "color": "#f34b7d",
-        "value": 13436522,
-        "percentage": 20.52
+        "value": 13445978,
+        "percentage": 20.95
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 5568947,
-        "percentage": 8.51
+        "value": 5605267,
+        "percentage": 8.73
       },
       {
         "languageName": "C",
         "color": "#555555",
-        "value": 1663715,
-        "percentage": 2.54
+        "value": 1689857,
+        "percentage": 2.63
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 1086601,
-        "percentage": 1.66
+        "percentage": 1.69
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 789180,
-        "percentage": 1.21
+        "value": 791009,
+        "percentage": 1.23
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
         "value": 222513,
-        "percentage": 0.34
+        "percentage": 0.35
       },
       {
         "languageName": "Shell",
         "color": "#89e051",
-        "value": 210415,
-        "percentage": 0.32
+        "value": 221754,
+        "percentage": 0.35
       },
       {
         "languageName": "PowerShell",
         "color": "#012456",
-        "value": 61004,
-        "percentage": 0.09
+        "value": 61121,
+        "percentage": 0.1
       },
       {
         "languageName": "CSS",
@@ -1016,23 +1016,23 @@
       "webui",
       "youtube-downloader"
     ],
-    "contributionsThisYear": 747,
+    "contributionsThisYear": 753,
     "contributionsLastYear": 526,
-    "yearOverYearGrowth": 42.02,
+    "yearOverYearGrowth": 43.16,
     "mostProductiveMonth": {
       "month": "2025-12",
       "contributions": 222
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 1407,
+    "totalCommitContributions": 1413,
     "restrictedContributionsCount": 23,
     "totalIssueContributions": 4,
     "totalRepositoryContributions": 34,
     "totalPullRequestContributions": 55,
     "totalPullRequestReviewContributions": 1,
     "contributionCalendar": {
-      "totalContributions": 1531,
+      "totalContributions": 1537,
       "weeks": [
         {
           "contributionDays": [
@@ -18733,8 +18733,16 @@
               "date": "2026-07-20"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 3,
               "date": "2026-07-21"
+            },
+            {
+              "contributionCount": 3,
+              "date": "2026-07-22"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-07-23"
             }
           ]
         }
@@ -18766,7 +18774,7 @@
       "name": "STLVault",
       "nameWithOwner": "moddroid94/STLVault",
       "description": "STL Vault - A containerized 3D Model library manager and organizer, focused on 3D printing.",
-      "stars": 28,
+      "stars": 29,
       "forks": 9,
       "isArchived": false,
       "isFork": false,
@@ -18784,8 +18792,22 @@
         "homelab",
         "self-hosted"
       ],
-      "updatedAt": "2026-07-14T09:41:25Z",
+      "updatedAt": "2026-07-23T03:20:22Z",
       "createdAt": "2025-11-22T18:46:26Z"
+    },
+    {
+      "name": "onthespot",
+      "nameWithOwner": "moddroid94/onthespot",
+      "description": "A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More",
+      "stars": 2,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": true,
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "topics": [],
+      "updatedAt": "2026-07-23T05:17:31Z",
+      "createdAt": "2025-10-07T19:01:42Z"
     },
     {
       "name": "terabithia-music-bridge",
@@ -18852,20 +18874,6 @@
       "createdAt": "2025-10-23T12:40:43Z"
     },
     {
-      "name": "onthespot",
-      "nameWithOwner": "moddroid94/onthespot",
-      "description": "A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More",
-      "stars": 1,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": true,
-      "isPrivate": false,
-      "primaryLanguage": "Python",
-      "topics": [],
-      "updatedAt": "2026-06-20T19:39:41Z",
-      "createdAt": "2025-10-07T19:01:42Z"
-    },
-    {
       "name": "addon-grocy-off-barcodelookup",
       "nameWithOwner": "moddroid94/addon-grocy-off-barcodelookup",
       "description": "Grocy - Home Assistant Community Add-ons",
@@ -18930,9 +18938,9 @@
   ],
   "closedIssues": 4,
   "openIssues": 0,
-  "fetchedAt": 1784619762308,
+  "fetchedAt": 1784792708172,
   "schemaVersion": 2,
-  "generatedAt": "2026-07-21T07:42:42.308Z",
+  "generatedAt": "2026-07-23T07:45:08.172Z",
   "profile": {
     "name": "0x4B1D",
     "login": "moddroid94",
@@ -18948,15 +18956,15 @@
     "following": 9
   },
   "profileContributions": {
-    "totalContributions": 1531,
-    "totalCommitContributions": 1407,
+    "totalContributions": 1537,
+    "totalCommitContributions": 1413,
     "restrictedContributionsCount": 23,
     "totalIssueContributions": 4,
     "totalRepositoryContributions": 34,
     "totalPullRequestContributions": 55,
     "totalPullRequestReviewContributions": 1,
     "contributionCalendar": {
-      "totalContributions": 1531,
+      "totalContributions": 1537,
       "weeks": [
         {
           "contributionDays": [
@@ -36657,20 +36665,28 @@
               "date": "2026-07-20"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 3,
               "date": "2026-07-21"
+            },
+            {
+              "contributionCount": 3,
+              "date": "2026-07-22"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-07-23"
             }
           ]
         }
       ]
     },
     "stats": {
-      "longestStreak": 234,
-      "currentStreak": 234,
+      "longestStreak": 236,
+      "currentStreak": 236,
       "mostActiveDay": "Saturday",
       "averagePerDay": 0.4,
-      "averagePerWeek": 2.77,
-      "averagePerMonth": 11.88,
+      "averagePerWeek": 2.78,
+      "averagePerMonth": 11.92,
       "monthlyBreakdown": [
         {
           "month": "2015-12",
@@ -37182,7 +37198,7 @@
         },
         {
           "month": "2026-07",
-          "contributions": 93
+          "contributions": 99
         }
       ],
       "yearlyBreakdown": [
@@ -37232,7 +37248,7 @@
         },
         {
           "year": "2026",
-          "contributions": 747
+          "contributions": 753
         }
       ],
       "peakDay": {
@@ -37426,7 +37442,7 @@
         "nameWithOwner": "moddroid94/moddroid94",
         "owner": "moddroid94",
         "counts": {
-          "commits": 617,
+          "commits": 623,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -37680,7 +37696,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619738184
+      "metadataFetchedAt": 1784792659699
     },
     {
       "id": "R_kgDOOJaiIw",
@@ -37742,7 +37758,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619742411
+      "metadataFetchedAt": 1784792663894
     },
     {
       "id": "R_kgDOPVpdjQ",
@@ -37810,7 +37826,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619742411
+      "metadataFetchedAt": 1784792663894
     },
     {
       "id": "R_kgDOPiPbyw",
@@ -37860,7 +37876,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619742411
+      "metadataFetchedAt": 1784792663894
     },
     {
       "id": "R_kgDORgVEYw",
@@ -37927,7 +37943,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619744364
+      "metadataFetchedAt": 1784792665800
     },
     {
       "id": "R_kgDOQHxO0A",
@@ -37980,7 +37996,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619744364
+      "metadataFetchedAt": 1784792665800
     },
     {
       "id": "R_kgDOPYaskg",
@@ -38048,7 +38064,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619742411
+      "metadataFetchedAt": 1784792663894
     },
     {
       "id": "R_kgDOJlXjVw",
@@ -38098,7 +38114,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619738184
+      "metadataFetchedAt": 1784792659699
     },
     {
       "id": "R_kgDOJes6YQ",
@@ -38142,7 +38158,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619738184
+      "metadataFetchedAt": 1784792659699
     },
     {
       "id": "R_kgDORDhtXA",
@@ -38186,7 +38202,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619744364
+      "metadataFetchedAt": 1784792665800
     },
     {
       "id": "R_kgDOQke3LA",
@@ -38242,7 +38258,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619742411
+      "metadataFetchedAt": 1784792663894
     },
     {
       "id": "R_kgDORB9bzw",
@@ -38292,7 +38308,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619744364
+      "metadataFetchedAt": 1784792665800
     },
     {
       "id": "R_kgDOLhrpMA",
@@ -38366,7 +38382,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619739500
+      "metadataFetchedAt": 1784792660873
     },
     {
       "id": "R_kgDOJk-PUw",
@@ -38428,7 +38444,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619738184
+      "metadataFetchedAt": 1784792659699
     },
     {
       "id": "R_kgDOPachcQ",
@@ -38497,7 +38513,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619742411
+      "metadataFetchedAt": 1784792663894
     },
     {
       "id": "R_kgDOPfzquw",
@@ -38513,9 +38529,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2025-08-18T09:32:41Z",
-      "updatedAt": "2026-07-21T03:36:20Z",
-      "pushedAt": "2026-07-21T03:36:09Z",
-      "defaultBranchOid": "7663e169957fa8c1674af1e77316a20c8924f4b3",
+      "updatedAt": "2026-07-23T03:37:53Z",
+      "pushedAt": "2026-07-23T03:37:40Z",
+      "defaultBranchOid": "4ad3c99dc111a33cd0a08f6d66eb43341c1deb61",
       "stars": 0,
       "forks": 0,
       "primaryLanguage": null,
@@ -38528,13 +38544,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 617,
+        "commits": 623,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619744364
+      "metadataFetchedAt": 1784792665800
     },
     {
       "id": "R_kgDOQlm3EQ",
@@ -38590,7 +38606,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619742411
+      "metadataFetchedAt": 1784792663894
     },
     {
       "id": "R_kgDOP-GcDw",
@@ -38606,10 +38622,10 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2025-10-07T19:01:42Z",
-      "updatedAt": "2026-06-20T19:39:41Z",
+      "updatedAt": "2026-07-23T05:17:31Z",
       "pushedAt": "2026-07-06T17:53:16Z",
       "defaultBranchOid": "c7510de0a9b5b5b0182eee4e2ac744fb6dc1bc6e",
-      "stars": 1,
+      "stars": 2,
       "forks": 0,
       "primaryLanguage": "Python",
       "topics": [],
@@ -38670,7 +38686,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619742411
+      "metadataFetchedAt": 1784792663894
     },
     {
       "id": "R_kgDOLk5-xw",
@@ -38754,7 +38770,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619739500
+      "metadataFetchedAt": 1784792660873
     },
     {
       "id": "R_kgDOL3Vfww",
@@ -38804,7 +38820,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619739500
+      "metadataFetchedAt": 1784792660873
     },
     {
       "id": "R_kgDOJtaNrw",
@@ -38848,7 +38864,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619738184
+      "metadataFetchedAt": 1784792659699
     },
     {
       "id": "R_kgDOOFAt4Q",
@@ -38902,7 +38918,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619742411
+      "metadataFetchedAt": 1784792663894
     },
     {
       "id": "R_kgDOQbAm9g",
@@ -38918,10 +38934,10 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2025-11-22T18:46:26Z",
-      "updatedAt": "2026-07-14T09:41:25Z",
+      "updatedAt": "2026-07-23T03:20:22Z",
       "pushedAt": "2026-07-14T09:41:20Z",
       "defaultBranchOid": "3b3eb6fc8eb2d7ca584b0aa25eafce62c046fe7b",
-      "stars": 28,
+      "stars": 29,
       "forks": 9,
       "primaryLanguage": "TypeScript",
       "topics": [
@@ -38987,7 +39003,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619744364
+      "metadataFetchedAt": 1784792665800
     },
     {
       "id": "R_kgDORHkEug",
@@ -39051,7 +39067,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619744364
+      "metadataFetchedAt": 1784792665800
     },
     {
       "id": "R_kgDOPZjWwQ",
@@ -39107,7 +39123,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784619742411
+      "metadataFetchedAt": 1784792663894
     },
     {
       "id": "R_kgDOTA-NSw",
@@ -39145,7 +39161,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1784619744364
+      "metadataFetchedAt": 1784792665800
     },
     {
       "id": "R_kgDONgwYSg",
@@ -39199,7 +39215,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1784619748574
+      "metadataFetchedAt": 1784792669123
     },
     {
       "id": "R_kgDOMoOirA",
@@ -39215,11 +39231,11 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2024-08-26T00:21:34Z",
-      "updatedAt": "2026-07-21T07:19:53Z",
+      "updatedAt": "2026-07-23T05:46:54Z",
       "pushedAt": "2026-07-14T11:06:19Z",
       "defaultBranchOid": "d253cde48bfd878242b74ae38dd841e5131e0f6d",
-      "stars": 1598,
-      "forks": 99,
+      "stars": 1604,
+      "forks": 100,
       "primaryLanguage": "Python",
       "topics": [
         "spotify-downloader",
@@ -39289,7 +39305,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1784619744364
+      "metadataFetchedAt": 1784792665800
     },
     {
       "id": "R_kgDONt_DTA",
@@ -39343,7 +39359,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1784619748574
+      "metadataFetchedAt": 1784792669123
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzNTc3Mjg5Njk=",
@@ -39359,11 +39375,11 @@
       "visibility": "PUBLIC",
       "viewerPermission": "READ",
       "createdAt": "2021-04-14T00:48:17Z",
-      "updatedAt": "2026-07-21T07:31:15Z",
-      "pushedAt": "2026-07-21T07:36:26Z",
-      "defaultBranchOid": "5b98630ac045622ce9ddfe0b53a2c4f3a91f26c4",
-      "stars": 94916,
-      "forks": 4890,
+      "updatedAt": "2026-07-23T07:19:06Z",
+      "pushedAt": "2026-07-23T07:37:53Z",
+      "defaultBranchOid": "feee846272c998fdcf3b17c305331b33f2d8751f",
+      "stars": 94956,
+      "forks": 4892,
       "primaryLanguage": "Rust",
       "topics": [
         "bun",
@@ -39383,38 +39399,38 @@
         {
           "languageName": "Rust",
           "color": "#dea584",
-          "value": 42222117,
-          "percentage": 66.08
+          "value": 40824025,
+          "percentage": 65.22
         },
         {
           "languageName": "C++",
           "color": "#f34b7d",
-          "value": 13436522,
-          "percentage": 21.03
+          "value": 13445978,
+          "percentage": 21.48
         },
         {
           "languageName": "TypeScript",
           "color": "#3178c6",
-          "value": 5271125,
-          "percentage": 8.25
+          "value": 5307445,
+          "percentage": 8.48
         },
         {
           "languageName": "C",
           "color": "#555555",
-          "value": 1663715,
-          "percentage": 2.6
+          "value": 1689857,
+          "percentage": 2.7
         },
         {
           "languageName": "JavaScript",
           "color": "#f1e05a",
-          "value": 784496,
-          "percentage": 1.23
+          "value": 786325,
+          "percentage": 1.26
         },
         {
           "languageName": "Shell",
           "color": "#89e051",
-          "value": 166917,
-          "percentage": 0.26
+          "value": 178256,
+          "percentage": 0.28
         },
         {
           "languageName": "Python",
@@ -39425,7 +39441,7 @@
         {
           "languageName": "PowerShell",
           "color": "#012456",
-          "value": 61004,
+          "value": 61121,
           "percentage": 0.1
         },
         {
@@ -39459,15 +39475,15 @@
           "percentage": 0.04
         },
         {
+          "languageName": "HCL",
+          "color": "#844FBA",
+          "value": 22115,
+          "percentage": 0.04
+        },
+        {
           "languageName": "Ruby",
           "color": "#701516",
           "value": 14292,
-          "percentage": 0.02
-        },
-        {
-          "languageName": "HCL",
-          "color": "#844FBA",
-          "value": 14259,
           "percentage": 0.02
         },
         {
@@ -39501,7 +39517,7 @@
           "percentage": 0
         }
       ],
-      "codeByteTotal": 63899601,
+      "codeByteTotal": 62594568,
       "sources": [
         "profile-contribution",
         "cache",
@@ -39514,7 +39530,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1784619742411
+      "metadataFetchedAt": 1784792663894
     },
     {
       "id": "R_kgDOIrJ7eA",
@@ -39570,61 +39586,61 @@
         "pullRequestReviews": 1,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1784619742411
+      "metadataFetchedAt": 1784792663894
     }
   ],
   "repoMetrics": {
-    "starCount": 107,
+    "starCount": 109,
     "forkCount": 14,
-    "codeByteTotal": 66940542,
+    "codeByteTotal": 65635509,
     "topLanguages": [
       {
         "languageName": "Rust",
         "color": "#dea584",
-        "value": 42222117,
-        "percentage": 63.07
+        "value": 40824025,
+        "percentage": 62.2
       },
       {
         "languageName": "C++",
         "color": "#f34b7d",
-        "value": 13436522,
-        "percentage": 20.07
+        "value": 13445978,
+        "percentage": 20.49
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 5687561,
-        "percentage": 8.5
+        "value": 5723881,
+        "percentage": 8.72
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 1971286,
-        "percentage": 2.94
+        "percentage": 3
       },
       {
         "languageName": "C",
         "color": "#555555",
-        "value": 1663715,
-        "percentage": 2.49
+        "value": 1689857,
+        "percentage": 2.57
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 1015490,
-        "percentage": 1.52
+        "value": 1017319,
+        "percentage": 1.55
       },
       {
         "languageName": "Shell",
         "color": "#89e051",
-        "value": 323455,
-        "percentage": 0.48
+        "value": 334794,
+        "percentage": 0.51
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
         "value": 233666,
-        "percentage": 0.35
+        "percentage": 0.36
       },
       {
         "languageName": "CSS",
@@ -39635,14 +39651,14 @@
       {
         "languageName": "PowerShell",
         "color": "#012456",
-        "value": 61004,
+        "value": 61121,
         "percentage": 0.09
       },
       {
         "languageName": "Objective-C",
         "color": "#438eff",
         "value": 43333,
-        "percentage": 0.06
+        "percentage": 0.07
       },
       {
         "languageName": "GLSL",
@@ -39654,7 +39670,7 @@
         "languageName": "Dockerfile",
         "color": "#384d54",
         "value": 36469,
-        "percentage": 0.05
+        "percentage": 0.06
       },
       {
         "languageName": "Perl",
@@ -39669,15 +39685,15 @@
         "percentage": 0.04
       },
       {
+        "languageName": "HCL",
+        "color": "#844FBA",
+        "value": 22115,
+        "percentage": 0.03
+      },
+      {
         "languageName": "Ruby",
         "color": "#701516",
         "value": 14292,
-        "percentage": 0.02
-      },
-      {
-        "languageName": "HCL",
-        "color": "#844FBA",
-        "value": 14259,
         "percentage": 0.02
       },
       {
@@ -39818,17 +39834,17 @@
       }
     ],
     "contributorStats": {
-      "totalCommits": 615,
-      "linesAdded": 63120,
-      "linesDeleted": 3175,
-      "linesOfCodeChanged": 66295,
-      "reposCompleted": 3,
+      "totalCommits": 1178,
+      "linesAdded": 182340,
+      "linesDeleted": 75737,
+      "linesOfCodeChanged": 258077,
+      "reposCompleted": 27,
       "reposPending": 0,
-      "reposFailed": 28
+      "reposFailed": 0
     },
     "traffic": {
-      "repoViews": 9061,
-      "repoViewUniques": 3435,
+      "repoViews": 8886,
+      "repoViewUniques": 3427,
       "reposCompleted": 25,
       "reposPending": 0,
       "reposFailed": 4
@@ -39843,7 +39859,7 @@
       "activeRepos": 17,
       "reposWithStars": 11,
       "reposCreatedThisYear": 9,
-      "averageStarsPerRepo": 2199.36
+      "averageStarsPerRepo": 2200.45
     },
     "computedStats": {
       "totalRepos": 44,
@@ -39855,7 +39871,7 @@
       "activeRepos": 17,
       "reposWithStars": 11,
       "reposCreatedThisYear": 9,
-      "averageStarsPerRepo": 2199.36,
+      "averageStarsPerRepo": 2200.45,
       "languageCount": 26,
       "primaryLanguage": "Rust",
       "primaryLanguageThisYear": "Rust",
@@ -39863,56 +39879,56 @@
         {
           "languageName": "Rust",
           "color": "#dea584",
-          "value": 42222117,
-          "percentage": 64.48
+          "value": 40824025,
+          "percentage": 63.62
         },
         {
           "languageName": "C++",
           "color": "#f34b7d",
-          "value": 13436522,
-          "percentage": 20.52
+          "value": 13445978,
+          "percentage": 20.95
         },
         {
           "languageName": "TypeScript",
           "color": "#3178c6",
-          "value": 5568947,
-          "percentage": 8.51
+          "value": 5605267,
+          "percentage": 8.73
         },
         {
           "languageName": "C",
           "color": "#555555",
-          "value": 1663715,
-          "percentage": 2.54
+          "value": 1689857,
+          "percentage": 2.63
         },
         {
           "languageName": "Python",
           "color": "#3572A5",
           "value": 1086601,
-          "percentage": 1.66
+          "percentage": 1.69
         },
         {
           "languageName": "JavaScript",
           "color": "#f1e05a",
-          "value": 789180,
-          "percentage": 1.21
+          "value": 791009,
+          "percentage": 1.23
         },
         {
           "languageName": "HTML",
           "color": "#e34c26",
           "value": 222513,
-          "percentage": 0.34
+          "percentage": 0.35
         },
         {
           "languageName": "Shell",
           "color": "#89e051",
-          "value": 210415,
-          "percentage": 0.32
+          "value": 221754,
+          "percentage": 0.35
         },
         {
           "languageName": "PowerShell",
           "color": "#012456",
-          "value": 61004,
-          "percentage": 0.09
+          "value": 61121,
+          "percentage": 0.1
         },
         {
           "languageName": "CSS",
@@ -40088,9 +40104,9 @@
         "webui",
         "youtube-downloader"
       ],
-      "contributionsThisYear": 747,
+      "contributionsThisYear": 753,
       "contributionsLastYear": 526,
-      "yearOverYearGrowth": 42.02,
+      "yearOverYearGrowth": 43.16,
       "mostProductiveMonth": {
         "month": "2025-12",
         "contributions": 222
@@ -40101,45 +40117,45 @@
     "readmeSummary": {
       "name": "0x4B1D",
       "username": "moddroid94",
-      "totalContributions": 1531,
-      "currentStreak": 234,
-      "longestStreak": 234,
+      "totalContributions": 1537,
+      "currentStreak": 236,
+      "longestStreak": 236,
       "topLanguages": [
         {
           "languageName": "Rust",
           "color": "#dea584",
-          "value": 42222117,
-          "percentage": 63.07
+          "value": 40824025,
+          "percentage": 62.2
         },
         {
           "languageName": "C++",
           "color": "#f34b7d",
-          "value": 13436522,
-          "percentage": 20.07
+          "value": 13445978,
+          "percentage": 20.49
         },
         {
           "languageName": "TypeScript",
           "color": "#3178c6",
-          "value": 5687561,
-          "percentage": 8.5
+          "value": 5723881,
+          "percentage": 8.72
         },
         {
           "languageName": "Python",
           "color": "#3572A5",
           "value": 1971286,
-          "percentage": 2.94
+          "percentage": 3
         },
         {
           "languageName": "C",
           "color": "#555555",
-          "value": 1663715,
-          "percentage": 2.49
+          "value": 1689857,
+          "percentage": 2.57
         }
       ],
-      "starsReceived": 107,
+      "starsReceived": 109,
       "forksReceived": 14,
       "activeRepos": 17,
-      "refreshedAt": "2026-07-21T07:42:42.308Z",
+      "refreshedAt": "2026-07-23T07:45:08.172Z",
       "complete": false
     },
     "cards": [
@@ -40151,7 +40167,7 @@
       {
         "id": "current-streak",
         "label": "Current streak",
-        "value": "234 days"
+        "value": "236 days"
       },
       {
         "id": "languages",
@@ -40162,12 +40178,12 @@
       {
         "id": "code-volume",
         "label": "Code volume",
-        "value": "63.8 MB"
+        "value": "62.6 MB"
       },
       {
         "id": "stars",
         "label": "Stars received",
-        "value": "107"
+        "value": "109"
       }
     ],
     "timeline": [
@@ -40217,7 +40233,7 @@
       },
       {
         "period": "2026",
-        "contributions": 747
+        "contributions": 753
       }
     ],
     "highlights": [
@@ -40237,7 +40253,7 @@
         "id": "top-language",
         "label": "Top language",
         "value": "Rust",
-        "detail": "63.07%"
+        "detail": "62.2%"
       }
     ],
     "remotion": {
@@ -40252,7 +40268,7 @@
           "id": "contributions",
           "title": "Contribution history",
           "metric": "1.5K",
-          "supportingText": "234 day longest streak"
+          "supportingText": "236 day longest streak"
         },
         {
           "id": "repositories",
@@ -40277,9 +40293,9 @@
     "redactedOptionalMetrics": 0
   },
   "collectionStatus": {
-    "startedAt": 1784619720591,
-    "finishedAt": 1784619762308,
-    "durationMs": 41717,
+    "startedAt": 1784792642023,
+    "finishedAt": 1784792708172,
+    "durationMs": 66149,
     "coreComplete": true,
     "complete": false,
     "cache": {
@@ -40292,23 +40308,23 @@
     },
     "backfill": {
       "enabled": true,
-      "completedThisRun": 28,
+      "completedThisRun": 56,
       "pending": 0,
-      "failedThisRun": 32,
+      "failedThisRun": 4,
       "skippedThisRun": 0
     },
     "rateLimit": {
       "graphql": {
         "limit": 5000,
-        "remaining": 4955,
-        "used": 45,
-        "resetAt": "2026-07-21T08:20:19Z"
+        "remaining": 4960,
+        "used": 40,
+        "resetAt": "2026-07-23T08:44:02Z"
       },
       "rest": {
         "limit": 5000,
-        "remaining": 4994,
-        "used": 6,
-        "resetAt": "2026-07-21T08:42:33.000Z"
+        "remaining": 4932,
+        "used": 68,
+        "resetAt": "2026-07-23T08:44:35.000Z"
       }
     },
     "warnings": [
@@ -40328,63 +40344,63 @@
     "twitterUsername": null,
     "websiteUrl": "x4b1d.ovh",
     "createdAt": "2015-12-30T14:06:52Z",
-    "repoViews": 9061,
-    "linesOfCodeChanged": 66295,
-    "linesAdded": 63120,
-    "linesDeleted": 3175,
-    "commitCount": 615,
-    "totalCommits": 1407,
+    "repoViews": 8886,
+    "linesOfCodeChanged": 258077,
+    "linesAdded": 182340,
+    "linesDeleted": 75737,
+    "commitCount": 1178,
+    "totalCommits": 1413,
     "totalPullRequests": 55,
     "totalPullRequestReviews": 1,
-    "codeByteTotal": 66940542,
+    "codeByteTotal": 65635509,
     "topLanguages": [
       {
         "languageName": "Rust",
         "color": "#dea584",
-        "value": 42222117,
-        "percentage": 63.07
+        "value": 40824025,
+        "percentage": 62.2
       },
       {
         "languageName": "C++",
         "color": "#f34b7d",
-        "value": 13436522,
-        "percentage": 20.07
+        "value": 13445978,
+        "percentage": 20.49
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 5687561,
-        "percentage": 8.5
+        "value": 5723881,
+        "percentage": 8.72
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 1971286,
-        "percentage": 2.94
+        "percentage": 3
       },
       {
         "languageName": "C",
         "color": "#555555",
-        "value": 1663715,
-        "percentage": 2.49
+        "value": 1689857,
+        "percentage": 2.57
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 1015490,
-        "percentage": 1.52
+        "value": 1017319,
+        "percentage": 1.55
       },
       {
         "languageName": "Shell",
         "color": "#89e051",
-        "value": 323455,
-        "percentage": 0.48
+        "value": 334794,
+        "percentage": 0.51
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
         "value": 233666,
-        "percentage": 0.35
+        "percentage": 0.36
       },
       {
         "languageName": "CSS",
@@ -40395,14 +40411,14 @@
       {
         "languageName": "PowerShell",
         "color": "#012456",
-        "value": 61004,
+        "value": 61121,
         "percentage": 0.09
       },
       {
         "languageName": "Objective-C",
         "color": "#438eff",
         "value": 43333,
-        "percentage": 0.06
+        "percentage": 0.07
       },
       {
         "languageName": "GLSL",
@@ -40414,7 +40430,7 @@
         "languageName": "Dockerfile",
         "color": "#384d54",
         "value": 36469,
-        "percentage": 0.05
+        "percentage": 0.06
       },
       {
         "languageName": "Perl",
@@ -40429,15 +40445,15 @@
         "percentage": 0.04
       },
       {
+        "languageName": "HCL",
+        "color": "#844FBA",
+        "value": 22115,
+        "percentage": 0.03
+      },
+      {
         "languageName": "Ruby",
         "color": "#701516",
         "value": 14292,
-        "percentage": 0.02
-      },
-      {
-        "languageName": "HCL",
-        "color": "#844FBA",
-        "value": 14259,
         "percentage": 0.02
       },
       {
@@ -40496,21 +40512,21 @@
       }
     ],
     "forkCount": 14,
-    "starCount": 107,
+    "starCount": 109,
     "starsGiven": 163,
     "followers": 13,
     "following": 9,
     "repositoriesContributedTo": 6,
     "discussionsStarted": 3,
     "discussionsAnswered": 0,
-    "totalContributions": 1531,
+    "totalContributions": 1537,
     "contributionStats": {
-      "longestStreak": 234,
-      "currentStreak": 234,
+      "longestStreak": 236,
+      "currentStreak": 236,
       "mostActiveDay": "Saturday",
       "averagePerDay": 0.4,
-      "averagePerWeek": 2.77,
-      "averagePerMonth": 11.88,
+      "averagePerWeek": 2.78,
+      "averagePerMonth": 11.92,
       "monthlyBreakdown": [
         {
           "month": "2015-12",
@@ -41022,7 +41038,7 @@
         },
         {
           "month": "2026-07",
-          "contributions": 93
+          "contributions": 99
         }
       ],
       "yearlyBreakdown": [
@@ -41072,7 +41088,7 @@
         },
         {
           "year": "2026",
-          "contributions": 747
+          "contributions": 753
         }
       ],
       "peakDay": {
@@ -41090,7 +41106,7 @@
       "activeRepos": 17,
       "reposWithStars": 11,
       "reposCreatedThisYear": 9,
-      "averageStarsPerRepo": 2199.36
+      "averageStarsPerRepo": 2200.45
     },
     "computedStats": {
       "totalRepos": 44,
@@ -41102,7 +41118,7 @@
       "activeRepos": 17,
       "reposWithStars": 11,
       "reposCreatedThisYear": 9,
-      "averageStarsPerRepo": 2199.36,
+      "averageStarsPerRepo": 2200.45,
       "languageCount": 26,
       "primaryLanguage": "Rust",
       "primaryLanguageThisYear": "Rust",
@@ -41110,56 +41126,56 @@
         {
           "languageName": "Rust",
           "color": "#dea584",
-          "value": 42222117,
-          "percentage": 64.48
+          "value": 40824025,
+          "percentage": 63.62
         },
         {
           "languageName": "C++",
           "color": "#f34b7d",
-          "value": 13436522,
-          "percentage": 20.52
+          "value": 13445978,
+          "percentage": 20.95
         },
         {
           "languageName": "TypeScript",
           "color": "#3178c6",
-          "value": 5568947,
-          "percentage": 8.51
+          "value": 5605267,
+          "percentage": 8.73
         },
         {
           "languageName": "C",
           "color": "#555555",
-          "value": 1663715,
-          "percentage": 2.54
+          "value": 1689857,
+          "percentage": 2.63
         },
         {
           "languageName": "Python",
           "color": "#3572A5",
           "value": 1086601,
-          "percentage": 1.66
+          "percentage": 1.69
         },
         {
           "languageName": "JavaScript",
           "color": "#f1e05a",
-          "value": 789180,
-          "percentage": 1.21
+          "value": 791009,
+          "percentage": 1.23
         },
         {
           "languageName": "HTML",
           "color": "#e34c26",
           "value": 222513,
-          "percentage": 0.34
+          "percentage": 0.35
         },
         {
           "languageName": "Shell",
           "color": "#89e051",
-          "value": 210415,
-          "percentage": 0.32
+          "value": 221754,
+          "percentage": 0.35
         },
         {
           "languageName": "PowerShell",
           "color": "#012456",
-          "value": 61004,
-          "percentage": 0.09
+          "value": 61121,
+          "percentage": 0.1
         },
         {
           "languageName": "CSS",
@@ -41335,23 +41351,23 @@
         "webui",
         "youtube-downloader"
       ],
-      "contributionsThisYear": 747,
+      "contributionsThisYear": 753,
       "contributionsLastYear": 526,
-      "yearOverYearGrowth": 42.02,
+      "yearOverYearGrowth": 43.16,
       "mostProductiveMonth": {
         "month": "2025-12",
         "contributions": 222
       }
     },
     "contributionsCollection": {
-      "totalCommitContributions": 1407,
+      "totalCommitContributions": 1413,
       "restrictedContributionsCount": 23,
       "totalIssueContributions": 4,
       "totalRepositoryContributions": 34,
       "totalPullRequestContributions": 55,
       "totalPullRequestReviewContributions": 1,
       "contributionCalendar": {
-        "totalContributions": 1531,
+        "totalContributions": 1537,
         "weeks": [
           {
             "contributionDays": [
@@ -59052,8 +59068,16 @@
                 "date": "2026-07-20"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 3,
                 "date": "2026-07-21"
+              },
+              {
+                "contributionCount": 3,
+                "date": "2026-07-22"
+              },
+              {
+                "contributionCount": 1,
+                "date": "2026-07-23"
               }
             ]
           }
@@ -59085,7 +59109,7 @@
         "name": "STLVault",
         "nameWithOwner": "moddroid94/STLVault",
         "description": "STL Vault - A containerized 3D Model library manager and organizer, focused on 3D printing.",
-        "stars": 28,
+        "stars": 29,
         "forks": 9,
         "isArchived": false,
         "isFork": false,
@@ -59103,8 +59127,22 @@
           "homelab",
           "self-hosted"
         ],
-        "updatedAt": "2026-07-14T09:41:25Z",
+        "updatedAt": "2026-07-23T03:20:22Z",
         "createdAt": "2025-11-22T18:46:26Z"
+      },
+      {
+        "name": "onthespot",
+        "nameWithOwner": "moddroid94/onthespot",
+        "description": "A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More",
+        "stars": 2,
+        "forks": 0,
+        "isArchived": false,
+        "isFork": true,
+        "isPrivate": false,
+        "primaryLanguage": "Python",
+        "topics": [],
+        "updatedAt": "2026-07-23T05:17:31Z",
+        "createdAt": "2025-10-07T19:01:42Z"
       },
       {
         "name": "terabithia-music-bridge",
@@ -59171,20 +59209,6 @@
         "createdAt": "2025-10-23T12:40:43Z"
       },
       {
-        "name": "onthespot",
-        "nameWithOwner": "moddroid94/onthespot",
-        "description": "A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More",
-        "stars": 1,
-        "forks": 0,
-        "isArchived": false,
-        "isFork": true,
-        "isPrivate": false,
-        "primaryLanguage": "Python",
-        "topics": [],
-        "updatedAt": "2026-06-20T19:39:41Z",
-        "createdAt": "2025-10-07T19:01:42Z"
-      },
-      {
         "name": "addon-grocy-off-barcodelookup",
         "nameWithOwner": "moddroid94/addon-grocy-off-barcodelookup",
         "description": "Grocy - Home Assistant Community Add-ons",
@@ -59249,6 +59273,6 @@
     ],
     "closedIssues": 4,
     "openIssues": 0,
-    "fetchedAt": 1784619762308
+    "fetchedAt": 1784792708172
   }
 }
