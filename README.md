@@ -25,8 +25,8 @@
 ### 💽 Other Projects I'm (slowly) working on
 
 <!-- START: REPO-PINS -->
-[![STLVault pin img](imgs/0.svg)](https://github.com/moddroid94/STLVault) [![ots-downloader/onthespot pin img](imgs/1.svg)](https://github.com/ots-downloader/onthespot) 
-[![local-green-api pin img](imgs/2.svg)](https://github.com/moddroid94/local-green-api) [![virtualdj/pun_sensor pin img](imgs/3.svg)](https://github.com/virtualdj/pun_sensor) 
+[![STLVault pin img](https://raw.githubusercontent.com/moddroid94/moddroid94/refs/heads/generated/repo_pin_imgs/0.svg)](https://github.com/moddroid94/STLVault) [![ots-downloader/onthespot pin img](https://raw.githubusercontent.com/moddroid94/moddroid94/refs/heads/generated/repo_pin_imgs/1.svg)](https://github.com/ots-downloader/onthespot) 
+[![local-green-api pin img](https://raw.githubusercontent.com/moddroid94/moddroid94/refs/heads/generated/repo_pin_imgs/2.svg)](https://github.com/moddroid94/local-green-api) [![virtualdj/pun_sensor pin img](https://raw.githubusercontent.com/moddroid94/moddroid94/refs/heads/generated/repo_pin_imgs/3.svg)](https://github.com/virtualdj/pun_sensor) 
 <!-- END: REPO-PINS -->
 
 ---
