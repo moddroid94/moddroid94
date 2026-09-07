@@ -13,7 +13,7 @@
 
 ### 🚀 Latest Published Projects
 
-
+- 🌐 [X4B1D Blog](https://blog.x4b1d.ovh) - My Own Blog, Built with VaultCMS on Obsidian, deployed via Cloudflare Workers
 - 🌐 [X4B1D Portfolio](https://x4b1d.ovh) - My Own Porfolio, Made with Astro, TailwindCSS and WebGL
 - 🌐 [InkOmnia 3D Showcase](https://inkomnia.x4b1d.ovh) - Fully 3D Web Showcase, made with Threejs and GSAP
 - 🌐 [Blender Bible](https://blenderbible.pages.dev) - A collaborative Blender Resource collection PWA/SPA, made in SvelteKit and DaisyUI
