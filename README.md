@@ -14,7 +14,7 @@
 ### 🚀 Latest Projects
 
 - 🌐 [RE-Mux Studio](https://github.com/moddroid94/RE-mux-studio) - Nm3u8dl-RE Web UI on docker, with chrome companion.
-- 🌐 [lnxlink-hypr-modules](https://github.com/moddroid94/lnxlink) - Custom Caelestia/Hyprland modules for lnxlink
+- 🌐 [lnxlink-caelestia-modules](https://github.com/moddroid94/lnxlink-caelestia-modules) - Custom Caelestia/Hyprland modules for lnxlink
 - 🌐 [mod-dots](https://github.com/moddroid94/mod-dots) - My own dotfiles + custom scripts
 
 
