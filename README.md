@@ -11,7 +11,16 @@
 
 ---
 
-### 🚀 Latest Published Projects
+### 🚀 Latest Projects
+
+- 🌐 [RE-Mux Studio](https://github.com/moddroid94/RE-mux-studio) - Nm3u8dl-RE Web UI on docker, with chrome companion.
+- 🌐 [lnxlink-hypr-modules](https://github.com/moddroid94/lnxlink) - Custom Caelestia/Hyprland modules for lnxlink
+- 🌐 [mod-dots](https://github.com/moddroid94/mod-dots) - My own dotfiles + custom scripts
+
+
+---
+
+### 🚀 Some Web Projects
 
 - 🌐 [X4B1D Blog](https://blog.x4b1d.ovh) - My Own Blog, Built with VaultCMS on Obsidian, deployed via Cloudflare Workers
 - 🌐 [X4B1D Portfolio](https://x4b1d.ovh) - My Own Porfolio, Made with Astro, TailwindCSS and WebGL
