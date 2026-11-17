@@ -30,7 +30,7 @@
 
 - 🌐 [InkOmnia 3D Showcase](https://inkomnia.x4b1d.ovh) - Fully 3D Web Showcase, made with Threejs and GSAP
 - 🌐 [Blender Bible](https://blenderbible.pages.dev) - A collaborative Blender Resource collection PWA/SPA, made in SvelteKit and DaisyUI
-- 🌐 [Reactive Metaballs](https://visual.x4b1d.ovh) - A microphone activated visualizer in WebGL, using custom GLSL shader.
+- 🌐 [Reactive Metablob](https://visual.x4b1d.ovh) - A microphone activated visualizer in WebGL, using custom GLSL shader.
 
 
 ---
@@ -39,10 +39,10 @@
 
 <p align="center">
   <a href="">
-    <img src="https://raw.githubusercontent.com/moddroid94/moddroid94/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Your GitHub Stats" />
+    <img src="https://raw.githubusercontent.com/moddroid94/moddroid94/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Top Langs" />
   </a>
   <a href="">
-    <img src="https://raw.githubusercontent.com/moddroid94/moddroid94/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Top Langs" />
+    <img src="https://raw.githubusercontent.com/moddroid94/moddroid94/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Your GitHub Stats" />
   </a>
 </p>
 <p align="center">
