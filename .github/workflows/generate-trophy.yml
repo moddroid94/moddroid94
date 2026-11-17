@@ -1,0 +1,30 @@
+name: Update profile trophy
+
+on:
+  schedule:
+    - cron: "0 3 * * *" 
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1
+        with:
+          options: 'username=${{ github.repository_owner }}&theme=radical&column=6&margin-w=15&margin-h=15'
+          path: profile/trophy.svg
+          token: ${{ secrets.STATS_TOKEN }}
+
+      - name: Commit stats and stable cache
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "CI: Updated profile trophy"
+          file_pattern: |
+            profile/trophy.svg
