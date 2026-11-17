@@ -18,7 +18,7 @@
 
 ---
 
-### 🚀 Some Web Projects
+### 🖥️ Some Web Projects
 
 - 🌐 [X4B1D Blog](https://blog.x4b1d.ovh) - My Own Blog, Built with VaultCMS on Obsidian, deployed via Cloudflare Workers
 - 🌐 [X4B1D Portfolio](https://x4b1d.ovh) - My Own Porfolio, Made with Astro, TailwindCSS and WebGL
