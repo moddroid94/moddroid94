@@ -7,7 +7,6 @@
 [![Static Badge](https://img.shields.io/badge/donate-brigthgreen?style=for-the-badge&logo=revolut)](https://revolut.me/samuelr8rl)
 
 
-
 ---
 
 ### 🚀 Latest Projects
@@ -18,23 +17,21 @@
 
 ---
 
-### 🖥️ Some Web Projects
-
-- 🌐 [X4B1D Blog](https://blog.x4b1d.ovh) - My Own Blog, Built with VaultCMS on Obsidian, deployed via Cloudflare Workers
-- 🌐 [X4B1D Portfolio](https://x4b1d.ovh) - My Own Porfolio, Made with Astro, TailwindCSS and WebGL
-- 🌐 [InkOmnia 3D Showcase](https://inkomnia.x4b1d.ovh) - Fully 3D Web Showcase, made with Threejs and GSAP
-- 🌐 [Blender Bible](https://blenderbible.pages.dev) - A collaborative Blender Resource collection PWA/SPA, made in SvelteKit and DaisyUI
-- 🌐 [Reactive Metaballs](https://visual.x4b1d.ovh) - A microphone activated visualizer in WebGL, using custom GLSL shader.
-
-
----
-
 ### 💽 Other Projects I'm working on
 
 <!-- START: REPO-PINS -->
 [![STLVault pin img](https://raw.githubusercontent.com/moddroid94/moddroid94/refs/heads/generated/repo_pin_imgs/0.svg)](<https://github.com/moddroid94/STLVault>) [![ots-downloader/onthespot pin img](https://raw.githubusercontent.com/moddroid94/moddroid94/refs/heads/generated/repo_pin_imgs/1.svg)](<https://github.com/ots-downloader/onthespot>) 
 [![local-green-api pin img](https://raw.githubusercontent.com/moddroid94/moddroid94/refs/heads/generated/repo_pin_imgs/2.svg)](<https://github.com/moddroid94/local-green-api>) [![virtualdj/pun_sensor pin img](https://raw.githubusercontent.com/moddroid94/moddroid94/refs/heads/generated/repo_pin_imgs/3.svg)](<https://github.com/virtualdj/pun_sensor>) 
 <!-- END: REPO-PINS -->
+
+---
+
+### 🖥️ Older Projects
+
+- 🌐 [InkOmnia 3D Showcase](https://inkomnia.x4b1d.ovh) - Fully 3D Web Showcase, made with Threejs and GSAP
+- 🌐 [Blender Bible](https://blenderbible.pages.dev) - A collaborative Blender Resource collection PWA/SPA, made in SvelteKit and DaisyUI
+- 🌐 [Reactive Metaballs](https://visual.x4b1d.ovh) - A microphone activated visualizer in WebGL, using custom GLSL shader.
+
 
 ---
 
