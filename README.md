@@ -1,6 +1,5 @@
 ![ain't it a beaut](assets/badge.svg)
 
-### 🔗 Social Links
 
 [![0x4B1D](https://img.shields.io/badge/0x4B1D-000000?style=for-the-badge&logo=printables)](https://www.printables.com/@n0d4y_2473488)
 [![0x4B1D](https://img.shields.io/badge/0d4y-000000?style=for-the-badge&logo=spotify)](https://open.spotify.com/artist/1o6gniVOfBAYn2vMxSOu3d?si=f7J-wQuJQv6Mcdlp7D03NQ)
@@ -14,7 +13,7 @@
 ### 🚀 Latest Projects
 
 - 🌐 [RE-Mux Studio](https://github.com/moddroid94/RE-mux-studio) - Nm3u8dl-RE Web UI on docker, with chrome companion.
-- 🌐 [lnxlink-caelestia-modules](https://github.com/moddroid94/lnxlink-caelestia-modules) - Custom Caelestia/Hyprland modules for lnxlink
+- 🌐 [lnxlink-hypr-modules](https://github.com/moddroid94/lnxlink-hypr-modules) - Custom Hyprland modules for lnxlink
 
 
 ---
@@ -30,7 +29,7 @@
 
 ---
 
-### 💽 Other Projects I'm (slowly) working on
+### 💽 Other Projects I'm working on
 
 <!-- START: REPO-PINS -->
 [![STLVault pin img](https://raw.githubusercontent.com/moddroid94/moddroid94/refs/heads/generated/repo_pin_imgs/0.svg)](<https://github.com/moddroid94/STLVault>) [![ots-downloader/onthespot pin img](https://raw.githubusercontent.com/moddroid94/moddroid94/refs/heads/generated/repo_pin_imgs/1.svg)](<https://github.com/ots-downloader/onthespot>) 
@@ -43,16 +42,15 @@
 
 <p align="center">
   <a href="">
-    <img src="https://raw.githubusercontent.com/moddroid94/moddroid94/main/profile-summary-card-output/aura/0-profile-details.svg" alt="Your GitHub Stats" />
+    <img src="https://raw.githubusercontent.com/moddroid94/moddroid94/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Your GitHub Stats" />
   </a>
   <a href="">
-    <img src="https://raw.githubusercontent.com/moddroid94/moddroid94/main/profile-summary-card-output/aura/1-repos-per-language.svg" alt="Top Langs" />
-    <img src="https://raw.githubusercontent.com/moddroid94/moddroid94/main/profile-summary-card-output/aura/3-stats.svg" alt="Stats" />
+    <img src="https://raw.githubusercontent.com/moddroid94/moddroid94/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Top Langs" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/lucthienphong1120/github-trophies">
-    <img src="https://github-trophies.vercel.app/?username=moddroid94&theme=nord&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+  <a href="">
+    <img src="https://raw.githubusercontent.com/moddroid94/moddroid94/main/profile/trophy.svg" alt="trophy" />
   </a>
 </p>
 <p align="center"> 
